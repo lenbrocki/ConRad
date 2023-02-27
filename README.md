@@ -6,7 +6,7 @@ Requirements:
 * [PyTorch](https://pytorch.org)
 * [PyTorch Lightning](https://pylidc.github.io)
 * [pylidc](https://pylidc.github.io)
-* [torchio](https://torchio.readthedocs.io)
+* [TorchIO](https://torchio.readthedocs.io)
 
 
 The notebooks should be executed in the following order:
