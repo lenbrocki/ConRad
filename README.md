@@ -14,3 +14,5 @@ The notebooks should be executed in the following order:
 2. [finetune_models.ipynb](finetune_models.ipynb), finetune ResNet end-to-end CNN model and biomarker regression model
 3. [extract_radiomics.ipynb](extract_radiomics.ipnb), extract radiomics features using nodule volumes and segmentations
 4. [classifiers.ipynb](classifiers.ipynb), train classifiers on various feature sets
+
+The repository contains all the necessary code for finetuning the CNN and biomarker regression models. To allow for a quick reproduction of our results we also make [pre-trained weights](https://drive.google.com/file/d/1x2ctl62Duo2w8rMV7b-hQrDxt6rGchic/view?usp=share_link) available. They should be placed in a folder called "weights".
