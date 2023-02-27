@@ -1,5 +1,5 @@
 # ConRad
-This repository contains the code to reproduce the results of our ConRad paper.
+This repository contains the code to reproduce the results of our ConRad paper (update link).
 
 Requirements:
 * Download [LIDC-IDRI dataset](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)
